@@ -8,7 +8,7 @@ The `CodeEffects.Toolkit.dll` assembly declares types that can be useful when im
 
 ## What's New in Version 1.0.1
 
-This is the initial public release of the Code Effects Toolkit.
+This is the initial public release of the open-source Code Effects Toolkit.
 
 ---
 
