@@ -6,8 +6,8 @@ using CodeEffects.Rule.Common.Attributes;
 
 namespace CodeEffects.Toolkit
 {
-    public class Html
-    {
+	public class Html
+	{
 		public static string GenerateForm(Type type, FormSettings settings = null)
 			=> GenerateForm(type, instance: null, prefix: "", depth: 0, settings ?? new FormSettings());
 

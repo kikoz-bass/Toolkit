@@ -7,14 +7,15 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Code Effects Toolkit</Title>
     <Product>Code Effects Toolkit</Product>
-    <Description>A toolkit used in Code Efefcts demo projects</Description>
+    <Description>Declares types that can be useful when implementing the Code Effects rules editor in web projects. Details at https://codeeffects.com</Description>
     <Copyright>Code Effects Software © 2026</Copyright>
     <PackageProjectUrl>https://codeeffects.com</PackageProjectUrl>
     <PackageIcon>Icon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/codeeffects-software/Toolkit</RepositoryUrl>
-    <PackageReleaseNotes>This is the initial release of the toolkit</PackageReleaseNotes>
-    <PackageTags>code effects codeeffects toolkit html demo</PackageTags>
+    <PackageReleaseNotes>This is the initial release of the Code Effects open-source toolkit</PackageReleaseNotes>
+    <PackageTags>code effects open source opensource codeeffects toolkit html demo</PackageTags>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
@@ -27,6 +28,10 @@
 
   <ItemGroup>
     <None Update="Icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="LICENSE">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
