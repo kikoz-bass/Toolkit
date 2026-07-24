@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEffects.Toolkit", "CodeEffects.Toolkit.csproj", "{59DD6E5B-8893-28F9-E9A0-335A6104B304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DD6E5B-8893-28F9-E9A0-335A6104B304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DD6E5B-8893-28F9-E9A0-335A6104B304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DD6E5B-8893-28F9-E9A0-335A6104B304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DD6E5B-8893-28F9-E9A0-335A6104B304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C724BEA2-3D14-4F3D-B49E-181EA2F64CE8}
+	EndGlobalSection
+EndGlobal
